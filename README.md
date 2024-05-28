@@ -1,3 +1,7 @@
+# 10seconds-seeder
+
+10Seconds Seeder is an open-source project designed to facilitate the discovery of active 10Seconds nodes. It provides a crawler that continuously scans the 10Seconds network, identifying reachable nodes and maintaining a list of these nodes. This list can be used by 10Seconds clients to quickly find peers when they start up. By improving the efficiency of peer discovery, 10Seconds Seeder helps to ensure a robust and reliable 10Seconds network.
+
 # generic-seeder
 
 ### v1.1.0
